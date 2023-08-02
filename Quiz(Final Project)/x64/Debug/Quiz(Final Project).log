@@ -1,0 +1,13 @@
+﻿  Quiz(Final Project).cpp
+C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Quiz(Final Project).cpp(67,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Quiz(Final Project).cpp(250,63): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Quiz(Final Project).cpp(329,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Quiz(Final Project).cpp(363,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Quiz(Final Project).cpp(399,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Quiz(Final Project).cpp(435,37): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Quiz(Final Project).cpp(455,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Quiz(Final Project).cpp(479,55): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h(224): warning C4715: 'Register': not all control paths return a value
+C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h(339): warning C4715: 'findUserfromUsersList': not all control paths return a value
+C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h(336): warning C4172: returning address of local variable or temporary: items
+  Quiz(Final Project).vcxproj -> C:\Users\Administrator\source\repos\Quiz(Final Project)\x64\Debug\Quiz(Final Project).exe

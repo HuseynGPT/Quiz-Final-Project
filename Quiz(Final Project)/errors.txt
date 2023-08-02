@@ -1,0 +1,107 @@
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 18:05:08 | Date: Jul 21 2023 | Line: 173
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 18:05:08 | Date: Jul 21 2023 | Line: 173
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:32:54 | Date: Jul 22 2023 | Line: 173
+Message: password min. 5 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 15:00:58 | Date: Jul 23 2023 | Line: 7
+Message: Username min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 15:04:58 | Date: Jul 23 2023 | Line: 7
+Message: password min. 5 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 15:04:58 | Date: Jul 23 2023 | Line: 7
+Message: first_name min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 15:04:58 | Date: Jul 23 2023 | Line: 7
+Message: second_name min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 15:04:58 | Date: Jul 23 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 15:04:58 | Date: Jul 23 2023 | Line: 7
+Message: Username min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 15:07:03 | Date: Jul 23 2023 | Line: 7
+Message: password min. 5 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 15:07:03 | Date: Jul 23 2023 | Line: 7
+Message: first_name min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 15:07:03 | Date: Jul 23 2023 | Line: 7
+Message: second_name min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 15:07:03 | Date: Jul 23 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 15:07:03 | Date: Jul 23 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 18:14:18 | Date: Jul 23 2023 | Line: 7
+Message: Correct answer is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:20:59 | Date: Jul 25 2023 | Line: 7
+Message: Correct answer is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:22:31 | Date: Jul 25 2023 | Line: 7
+Message: Correct answer is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:35:08 | Date: Jul 26 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:37:43 | Date: Jul 26 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:40:18 | Date: Jul 26 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:40:18 | Date: Jul 26 2023 | Line: 7
+Message: Filename min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:40:18 | Date: Jul 26 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:40:18 | Date: Jul 26 2023 | Line: 7
+Message: Correct answer is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:40:18 | Date: Jul 26 2023 | Line: 7
+Message: Filename min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:42:54 | Date: Jul 26 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:42:54 | Date: Jul 26 2023 | Line: 7
+Message: Filename min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:42:54 | Date: Jul 26 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:42:54 | Date: Jul 26 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:42:54 | Date: Jul 26 2023 | Line: 7
+Message: Filename min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:42:54 | Date: Jul 26 2023 | Line: 7
+Message: Filename min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:42:54 | Date: Jul 26 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 13:45:01 | Date: Jul 26 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 14:11:04 | Date: Jul 26 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 14:40:30 | Date: Jul 26 2023 | Line: 7
+Message: Correct answer is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 14:40:30 | Date: Jul 26 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 14:40:30 | Date: Jul 26 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 14:40:30 | Date: Jul 26 2023 | Line: 7
+Message: Correct answer is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 14:40:30 | Date: Jul 26 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 14:40:30 | Date: Jul 26 2023 | Line: 7
+Message: Correct answer is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 14:40:30 | Date: Jul 26 2023 | Line: 7
+Message: Correct answer is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 14:40:30 | Date: Jul 26 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:19:00 | Date: Jul 26 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:19:00 | Date: Jul 26 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:19:48 | Date: Jul 26 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 18:42:52 | Date: Jul 27 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 18:53:34 | Date: Jul 27 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 18:53:34 | Date: Jul 27 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:00:07 | Date: Jul 27 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:00:37 | Date: Jul 27 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:00:37 | Date: Jul 27 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:32:48 | Date: Jul 27 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:32:48 | Date: Jul 27 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:32:48 | Date: Jul 27 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:32:48 | Date: Jul 27 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:32:48 | Date: Jul 27 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:33:45 | Date: Jul 27 2023 | Line: 7
+Message: age min. 1 max. 50 | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:33:45 | Date: Jul 27 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:33:45 | Date: Jul 27 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: question is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:26:38 | Date: Jul 29 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 17:30:41 | Date: Jul 29 2023 | Line: 7
+Message: Correct answer is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 20:50:39 | Date: Jul 29 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:33:25 | Date: Jul 30 2023 | Line: 7
+Message: Filename min. 3 symbol | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 19:46:06 | Date: Jul 30 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 11:23:52 | Date: Jul 31 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 11:25:14 | Date: Jul 31 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 12:45:44 | Date: Jul 31 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 16:00:31 | Date: Jul 31 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 16:42:38 | Date: Jul 31 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 10:50:21 | Date: Aug  2 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 10:50:21 | Date: Aug  2 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 10:52:30 | Date: Aug  2 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 11:27:32 | Date: Aug  2 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 11:29:14 | Date: Aug  2 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Functions.h | Time: 11:29:43 | Date: Aug  2 2023 | Line: 7
+Message: Username or password is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Models.h | Time: 13:58:07 | Date: Aug  2 2023 | Line: 7
+Message: Correct answer is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Models.h | Time: 15:13:29 | Date: Aug  2 2023 | Line: 7
+Message: Correct answer is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Models.h | Time: 15:13:29 | Date: Aug  2 2023 | Line: 7
+Message: Filename is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Models.h | Time: 15:16:08 | Date: Aug  2 2023 | Line: 7
+Message: Filename is wrong | Source: C:\Users\Administrator\source\repos\Quiz(Final Project)\Quiz(Final Project)\Models.h | Time: 15:16:56 | Date: Aug  2 2023 | Line: 7

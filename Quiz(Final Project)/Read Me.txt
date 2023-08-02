@@ -1,0 +1,31 @@
+#################Quiz-Final-Project###################
+Admin kimi daxil olmaq isteyirsinizse:
+username: admin
+password: admin123
+
+
+#########################################################
+Elaverler:
+1)Error olduqda fayla yazir "error.txt"
+2)Sign In ve Register sistemi
+3)Vizuallasdirma(logolar ve yazilarda rengler ve s.)
+4)Canli Saat
+5)Oz yaratdigim Exception kitabxanasini istifade etdim
+
+
+####################################################################
+fayllar ne ucundur:
+"users.txt" Proqram run edilende faylda olan userlerin vectora yazilmasi ucun
+"users_for_login.txt" Sign Up hissesinde yoxlanis etmek ucun
+
+
+##################################################################
+#pragma warning(disable : 4996)
+bu erroru ona gore bagladimki showClock() funksiysainda bu hissede error verirdi.
+	time_t t = time(0);
+	struct tm* now = localtime(&t);
+
+
+QEYD:Eger test etmek isteyirsinzise quiz3 quizini istifade eded bilersiniz
+
+
